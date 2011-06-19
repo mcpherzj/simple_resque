@@ -36,23 +36,3 @@ module Demo
     end
   end
 end
-
-
-
-Dedicated Server Powered by the Dedicated Servers and
-Cloud Computing of Rackspace Hosting®
-
-    Blog
-    About
-    Contact & Support
-    Training
-    Job Board
-    Shop
-    API
-    Status
-
-    © 2011 GitHub Inc. All rights reserved.
-    Terms of Service
-    Privacy
-    Security
-
